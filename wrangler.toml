@@ -1,3 +1,10 @@
 name = "httcf"
 main = "_worker.js"
 compatibility_date = "2024-09-09"
+
+[vars]
+u = "6c37e8c7-5513-46db-9bb0-f5b1571f31b9"
+
+[[kv_namespaces]]
+binding = "C"
+id = "a"
